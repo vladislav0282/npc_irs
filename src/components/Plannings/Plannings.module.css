@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+} 
+
+.conteiner {
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: space-between;
+}
+
+.conteiner_content {
+    display: flex;
+    flex-direction: row;
+}
+
+h5 {
+    margin-bottom: 0;
+}
+
+h3 {
+    margin-bottom: 0;
+}
+
+.conteiner_content1{
+    display: flex;
+    flex-direction: column;
+}
+
+.conteiner_content2{
+    display: flex;
+    flex-direction: column;
+}
+
+.conteiner_content2_form {
+    padding: 10px;
+    padding-top: 40px;
+}
+
+.table {
+    font-size: 12px;
+    padding: 10px;
+}
+
+
+
+
